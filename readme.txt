@@ -6,4 +6,4 @@ Git will change 1 time.
 This is a stupid boy.
 I an in workspace.
 Now i have a new branch dev.
-A change on master.
+A change is fixed.
