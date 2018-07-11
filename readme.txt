@@ -7,3 +7,4 @@ This is a stupid boy.
 I an in workspace.
 Now i have a new branch dev.
 A change on branch featurel.
+Now test no-ff
