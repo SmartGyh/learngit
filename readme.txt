@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git will change 1 time.
 This is a stupid boy.
+I an in workspace.
